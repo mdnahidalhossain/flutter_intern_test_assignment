@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_intern_test_assignment/pages/home_page.dart';
 import 'package:flutter_intern_test_assignment/pages/initial_nav_page.dart';
 import 'package:flutter_intern_test_assignment/reponsive/responsive_layout_scaffold.dart';
 import 'package:flutter_intern_test_assignment/reponsive/tablet_scaffold.dart';

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_intern_test_assignment/models/slider_item.dart';
-import 'package:flutter_intern_test_assignment/theme/color_theme.dart';
 
 class SliderTile extends StatelessWidget {
   SliderItem sliderItem;
