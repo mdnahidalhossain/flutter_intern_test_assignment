@@ -2,12 +2,14 @@
 
 A new Flutter project.
 
+
 ### Mobile View
-![Mobile View](images/screenshots/mobile-screen-1.png)
-![Mobile View](images/screenshots/mobile-screen-1.png)
+<img src="images/screenshots/mobile-screen-1.png" alt="Screenshot" height="400"> <img src="images/screenshots/mobile-screen-2.png" alt="Screenshot" height="400">
+
 
 ### Tablet View
-![Tablet View](images/screenshots/tablet-screen-1.png)
-![Tablet View](images/screenshots/tablet-screen-2.png)
+<img src="images/screenshots/tablet-screen-1.png" alt="Screenshot" height="400">  <img src="images/screenshots/tablet-screen-2.png" alt="Screenshot" height="400">
+
+
 
 
