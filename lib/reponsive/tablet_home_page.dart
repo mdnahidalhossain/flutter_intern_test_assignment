@@ -10,7 +10,7 @@ class TabletHomePage extends StatefulWidget {
 }
 
 class _TabletHomePageState extends State<TabletHomePage> {
-  final PageController _controller = PageController(viewportFraction: 1);
+  // final PageController _controller = PageController(viewportFraction: 1);
   @override
   Widget build(BuildContext context) {
     return Container(
