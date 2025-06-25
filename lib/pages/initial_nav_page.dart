@@ -19,14 +19,6 @@ class _InitialNavPageState extends State<InitialNavPage> {
     });
   }
 
-  // final List _pages = [
-  //   HomePage(),
-  //   ListPage(),
-  //   MessagePage(),
-  //   WorkPage(),
-  //   ProfilePage(),
-  // ];
-
   @override
   Widget build(BuildContext context) {
     return SafeArea(
