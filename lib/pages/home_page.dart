@@ -10,23 +10,6 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  // List<ServiceCategories> serviceCategories = [];
-  // List<ServiceCategories> getALLServices() {
-  //   return ServiceCategories.services;
-  // }
-
-  // List<ServiceCard> getALLServiceCards() {
-  //   return ServiceCard.serviceCard;
-  // }
-
-  // List<SliderItem> getAllSliderItem() {
-  //   return SliderItem.sliderItem;
-  // }
-
-  // List<WorkerProfileRating> getAllWorkerProfiles() {
-  //   return WorkerProfileRating.workerProfile;
-  // }
-
   @override
   Widget build(BuildContext context) {
     // final PageController _controller = PageController(viewportFraction: 0.88);

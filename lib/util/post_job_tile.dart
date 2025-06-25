@@ -41,9 +41,7 @@ class PostJobTile extends StatelessWidget {
                 backgroundColor: primaryColor,
                 fixedSize: Size(327, 40),
                 shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(
-                    10,
-                  ), // optional corner radius
+                  borderRadius: BorderRadius.circular(10),
                 ),
               ),
             ),
